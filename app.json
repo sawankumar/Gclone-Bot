@@ -1,0 +1,11 @@
+{
+  "name": "Gclone-Bot",
+  "description": "Gclone is just another Tool like Autorclone/Folderclone/Gclone to bypass 750GB limit by google (more optimised for speed)",
+  "keywords": [
+    "Gclone"
+  ],
+  "repository": "https://github.com/sawankumar/Gclone-Bot",
+  "success_url": "https://telegram.dog/GclooneBot",
+  "website": "https://github.com/sawankumar/Gclone-Bot",  
+  "stack": "container"
+}

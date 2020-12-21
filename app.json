@@ -1,7 +1,7 @@
 {
   "name": "Gclone-Bot",
   "description": "Gclone is just another Tool like Autorclone/Folderclone/Gclone to bypass 750GB limit by google (more optimised for speed)",
-  "repository": "https://github.com/sawankumar/Fclone-Bot",
+  "repository": "https://github.com/sawankumar/Gclone-Bot",
   "env": {
     "telegram_token": {
       "description": "The Telegram Bot Token That You Get From @BotFather",
@@ -23,5 +23,6 @@
       "description": "Leave it Blank",
       "value": ""
     }
+  },
   "stack": "container"
 }

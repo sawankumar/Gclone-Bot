@@ -4,7 +4,7 @@
 
 > ## Gclone Bot
 
-## 📗 Pre-requisites:-
+## Pre-requisites:-
 1. [Install Python 3.7+](https://www.python.org/downloads/)（Latest version 3.8.3 recommended）
 2. You need Generated SAs (using [Autorclone](https://github.com/sawankumar/AutoRclone) or [Folderclone](https://github.com/sawankumar/Folderclone)
 3. Open **accounts** Folder (inside Autorclone or Folderclone Folder) and select any one of the json files and rename it as **1.json**
@@ -12,7 +12,7 @@
 5. Make a new bot from Bot Father and get the **Bot token**
 6. Get your own Telegram ID.
 
-## 📙 Installation:-
+## Installation:-
 1. Download the Zip version of this repo or clone this repo using the command below
 ```
 git clone https://github.com/sawankumar/Gclone-Bot
@@ -34,10 +34,10 @@ gclone_para_override = Leave it Blank
 ```
 4. After filling appropriate values - rename it as config.ini and save it
 
-## 🍎 Running the Bot
-🔷 Running in your own System - `python gclone.py`
+## Running the Bot
+Running in your own System - `python gclone.py`
 
-🔶 Running it in Heroku:-
+Running it in Heroku:-
 
 1. Create one app in Heroku
 2. Push the Files to Heroku using Heroku CLI
@@ -47,6 +47,6 @@ gclone_para_override = Leave it Blank
 6. Type /`folders` and set your favourite Folders
 7. Send or forward a message with a Google Drive link to the bot to start Copying...
 
-# Deploy on Heroku
+## Deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sawankumar/Gclone-Bot/tree/master)
